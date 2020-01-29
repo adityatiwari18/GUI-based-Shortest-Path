@@ -1,1 +1,1 @@
-# GUI-based-Shortest-Path
+# Shortest-Path-Algorithm
